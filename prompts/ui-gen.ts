@@ -199,7 +199,7 @@ ${currentCode}
         ],
       },
     ],
-    "gpt-4-vision-preview"
+    "GPT-4o"
   );
   console.log(JSON.stringify(usage, null, 2));
 
