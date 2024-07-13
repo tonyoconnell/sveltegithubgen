@@ -150,7 +150,7 @@ ${currentCode}
         ],
       },
     ],
-    "GPT-4o"
+    "gpt-4o"
   );
   console.log(JSON.stringify(usage, null, 2));
 
